@@ -1,18 +1,17 @@
 body{
     background-color: crimson;
     color: beige;
+    margin: 10px;
 }
 header {
     background-color: beige;
     color: crimson;
 }
 
-img{
+img, p {
     max-width: 500px ;
     height: auto;
 }
-p {
-    max-width: 500px;
-    height: auto;
-   
+nav{
+    padding: 10px;
 }
